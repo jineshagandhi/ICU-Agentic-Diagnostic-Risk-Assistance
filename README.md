@@ -66,6 +66,10 @@ LLMs can confabulate — generating plausible-sounding but fabricated clinical c
 
 ## 🧩 System Architecture
 
+<p align="center">
+  <img src="assets/architecture.png" alt="System Architecture" width="800"/>
+</p>
+
 ### Agent Layer
 
 | Agent                         | Role                                                                                                 | Input                              | Output                                          |
